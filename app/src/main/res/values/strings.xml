@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CEVB</string>
+    <string name="bienvenido">Bienvenido,</string>
+    <string name="logint_to_continue">Inicia Sesión para continuar.</string>
+    <string name="correo_cuenta">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="password_on">Password on</string>
+    <string name="password_off">Password off</string>
+    <string name="inicio_bb">Inicio</string>
+    <string name="favoritos_bb">Favoritos</string>
+    <string name="mapeo_bb">Mapeo</string>
+    <string name="configuraci_n_bb">Ajustes</string>
+</resources>
